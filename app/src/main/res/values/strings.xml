@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title">Title:</string>
+    <string name="body">Note:</string>
+    <string name="body_text">Enter Note</string>
+    <string name="title_text">Enter Title</string>
+    <string name="btn_save">Save</string>
+    <string name="date">Date:</string>
+</resources>
